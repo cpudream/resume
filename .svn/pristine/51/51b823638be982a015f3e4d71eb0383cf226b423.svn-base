@@ -1,0 +1,29 @@
+\resheading{项目经验}
+  \begin{itemize}[leftmargin=*]
+    \item
+      \ressubsingleline{智慧民生 APP}{东方国信-Android开发工程师}{2017.02 -- 至今}
+      	 \item 项目描述：是一款面向城市企业与居民的便民APP,包括提交并展示社保、医疗、教育、充值等小应用模块，以及常见的小区认证、新闻、公告、办事指南，政务信息材料、图片提交等功能     
+      	 \item 项目职责：
+      {\small
+      \begin{itemize}
+      		\item 负责首页小应用的开发，根据不同用户展现不同item，包括item拖拽定制等
+      		\item 通过图表的方式展示城市中各种民生指标（出行，经济，人口等）
+      		\item 完成小区认证状态列表，待办事件的展示与实现，对recyclerview进行优化
+      		\item 负责客户端高性能调优，包括排查解决内存泄漏，大幅度降低OOM发生的概率
+      		\item 负责接收TCP/RTSP视频流数据的接收与联调,通过AndroidNative渲染
+      		\item 负责视频的播放，暂停，回放，gif图片的截取等
+      \end{itemize}
+      }
+    \item
+      \ressubsingleline{城市管理APP}{东方国信-Android开发工程师}{2016.08 -- 2017.02}
+      	\item 项目描述：是一款面向政府工作人员的APP,根据工作人员权限办理不同的民生业务、流程审批，以及,工作人员的上下班打卡等日常事务
+      	\item 项目职责：
+      {\small
+      \begin{itemize}
+      		\item 考勤打卡的设计与实现，包括虚拟定位，虚拟打卡，常见违规打卡等开发
+      		\item 使用MVVM搭建项目框架，关键部分引入骨架屏框架，集成线上crash收集等功能
+      		\item 使用美团打包技术，高效完成app打包、上线工作，对线上APP进行流畅监控等
+      		\item 集成高德地图天气，完成城市定位与天气预报等功能，集成第三方登陆等功能	
+      \end{itemize}
+      }
+  \end{itemize}
